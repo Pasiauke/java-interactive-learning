@@ -1,4 +1,4 @@
-package streams;
+package core.stream;
 
 public class StreamsLearning {
 

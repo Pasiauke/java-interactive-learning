@@ -1,4 +1,4 @@
-package streams;
+package core.stream;
 
 import org.apache.commons.lang3.StringUtils;
 
